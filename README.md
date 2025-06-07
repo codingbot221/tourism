@@ -34,19 +34,20 @@ Check out the live demo here: [Live Link](https://your-live-demo-link.com)
 ## 📂 Folder Structure
 
 
-tourism/      --
-├── public/  --
-│ └── assets/  --
-├── src/       --
-│ ├── components/     --
-│ ├── pages/      --
-│ ├── data/      --
-│ ├── App.jsx      --
-│ └── main.jsx      --
-├── tailwind.config.js      --
-├── vite.config.js      --
-├── package.json      --
-└── README.md      --
+tourism/
+├── public/
+│ └── assets/ # Static files like images, logos, etc.
+├── src/
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Individual page components
+│ ├── data/ # Static data or mock data files
+│ ├── App.jsx # Root component
+│ └── main.jsx # Application entry point
+├── tailwind.config.js # Tailwind CSS configuration
+├── vite.config.js # Vite configuration
+├── package.json # Project dependencies and scripts
+└── README.md # Project documentation
+
 
 
 ## 🧑‍💻 Getting Started
