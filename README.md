@@ -34,19 +34,19 @@ Check out the live demo here: [Live Link](https://your-live-demo-link.com)
 ## 📂 Folder Structure
 
 
-tourism/
-├── public/
-│ └── assets/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── data/
-│ ├── App.jsx
-│ └── main.jsx
-├── tailwind.config.js
-├── vite.config.js
-├── package.json
-└── README.md
+tourism/      --
+├── public/  --
+│ └── assets/  --
+├── src/       --
+│ ├── components/     --
+│ ├── pages/      --
+│ ├── data/      --
+│ ├── App.jsx      --
+│ └── main.jsx      --
+├── tailwind.config.js      --
+├── vite.config.js      --
+├── package.json      --
+└── README.md      --
 
 
 ## 🧑‍💻 Getting Started
